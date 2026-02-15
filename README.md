@@ -2,10 +2,6 @@
 
 A clean, modern LaTeX resume template that outputs a professional one-page resume in PDF format.
 
-## Preview
-
-![Resume Preview](resume-preview.png)
-
 ## Features
 
 - **Clean Design**: Professional, minimalist layout optimized for readability
